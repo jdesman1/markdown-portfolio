@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+5 years of experience writing code in **Python**
+
+*Member* of the **Johns Hopkins University** Fencing Team
